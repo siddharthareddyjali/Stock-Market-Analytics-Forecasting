@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+*.log
+.pytest_cache/
+.idea/
+.vscode/
+*.keras
+*.h5
+*.pkl
